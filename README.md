@@ -13,7 +13,7 @@ Instructor: **Dr. Chris Jordan G. Aliac**
 # Hopfield Network Model
 This is a Hopfield program created in C# with WinForms. 
 
-Here, the goal of the program is to recreate the 9x9 pixel models of the plus (+) and minus (-) symbols using a WinForms grid.
+Here, the goal of the program is to recreate the 3x3 pixel models of the plus (+) and minus (-) symbols using a WinForms grid.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/111829440/217422242-1e98c5ed-1258-4439-9bf1-92a7f329b828.png"/>
