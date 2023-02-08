@@ -14,3 +14,11 @@ Instructor: **Dr. Chris Jordan G. Aliac**
 This is a Hopfield program created in C# with WinForms. 
 
 Here, the goal of the program is to recreate the 9x9 pixel models of the plus (+) and minus (-) symbols using a WinForms grid.
+
+![image](https://user-images.githubusercontent.com/111829440/217422242-1e98c5ed-1258-4439-9bf1-92a7f329b828.png)
+
+The UI will allow the user to input the squares as black or white, and the program will display a 9x9 output on the UI.
+
+This is the weight matrix of the given models:
+
+![image](https://user-images.githubusercontent.com/111829440/217422570-56e1f03b-e5b6-4eb7-afbe-52f9c6b9115a.png)
