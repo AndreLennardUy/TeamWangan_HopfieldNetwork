@@ -13,6 +13,19 @@ namespace TeamWangan
     public partial class Form1 : Form
     {
         int[] inputArr = new int[9];
+        int[,] weight = { { 0, 0 , 2 , -2 , -2 , -2 , 2 , 0 , 2 } , 
+                        {0 , 0 , 0 , 0 , 0 , 0 , 0 , 2 , 0} , 
+                        {2 , 0 , 0 , -2 , -2 , -2 , 2 , 0 , 2} ,
+                        {2 , 0 , -2 , 0 , 2 , 2 , -2 , 0 ,-2 } ,
+                        {2 , 0 , -2 , 2 , 0, 2 , -2 , 0 , -2 } ,
+                        {2 , 0 , -2 , 2 , 2 , 0 , -2 , 0 ,-2} ,
+                        {2 , 0 , 2 , -2 , -2 , -2 , 0 , 0 , 2} ,
+                        {0 , 2 , 0 , 0 , 0 , 0 , 0 , 0 , 0} ,
+                        {2 , 0 , 2 , -2 , -2 , -2 , 2 , 0 , 0} 
+        };
+
+        
+
         public Form1()
         {
             InitializeComponent();
@@ -155,12 +168,16 @@ namespace TeamWangan
                 inputArr[8] = 0;
             }
 
-
-
-            foreach (var i in inputArr)
+            foreach (var i in weight)
             {
-                label2.Text = label2.Text + " " + i;            
+                label2.Text = label2.Text + " " + i;
             }
+
+
+            //foreach (var i in inputArr)
+            //{
+            //    label2.Text = label2.Text + " " + i;            
+            //}
         }
     }
 }
