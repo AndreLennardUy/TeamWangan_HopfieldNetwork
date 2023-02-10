@@ -24,7 +24,7 @@ namespace TeamWangan
                         {2 , 0 , 2 , -2 , -2 , -2 , 2 , 0 , 0} 
         };
 
-        
+        int[] outputArr = new int[9];
 
         public Form1()
         {
@@ -168,10 +168,7 @@ namespace TeamWangan
                 inputArr[8] = 0;
             }
 
-            foreach (var i in weight)
-            {
-                label2.Text = label2.Text + " " + i;
-            }
+            
 
 
             //foreach (var i in inputArr)
