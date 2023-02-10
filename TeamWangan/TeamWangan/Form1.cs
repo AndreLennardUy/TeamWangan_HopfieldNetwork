@@ -64,6 +64,7 @@ namespace TeamWangan
             button8.BackColor = Color.White;
             button9.BackColor = Color.White;
             label2.Text = "";
+            Array.Clear(outputArr, 0, outputArr.Length);
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -168,13 +169,30 @@ namespace TeamWangan
                 inputArr[8] = 0;
             }
 
-            
 
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
+                    outputArr[i] += inputArr[j] * weight[i, j];
+                }
+            }
 
-            //foreach (var i in inputArr)
-            //{
-            //    label2.Text = label2.Text + " " + i;            
-            //}
+            for(int i = 0; i < 9; i++)
+            {
+                if(outputArr[i] > 0)
+                {
+                    outputArr[i] = 1;
+                } 
+                else if(outputArr[i] < 0){
+                    outputArr[i] = 0;
+                }
+            }
+
+            foreach (var i in outputArr)
+            {
+                label2.Text = label2.Text + " " + i;
+            }
         }
     }
 }
