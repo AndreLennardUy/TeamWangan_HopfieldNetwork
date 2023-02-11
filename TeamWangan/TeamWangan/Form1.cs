@@ -1,29 +1,37 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace TeamWangan
 {
+    /// <summary>
+    /// Class <c>Form1</c> is where our application is stored.
+    /// </summary>
     public partial class Form1 : Form
     {
+        /// <summary>
+        /// This stores the input vectors.
+        /// </summary>
         int[] inputArr = new int[9];
-        int[,] weight = { { 0, 0 , 2 , -2 , -2 , -2 , 2 , 0 , 2 } , 
-                        {0 , 0 , 0 , 0 , 0 , 0 , 0 , 2 , 0} , 
-                        {2 , 0 , 0 , -2 , -2 , -2 , 2 , 0 , 2} ,
-                        {2 , 0 , -2 , 0 , 2 , 2 , -2 , 0 ,-2 } ,
-                        {2 , 0 , -2 , 2 , 0, 2 , -2 , 0 , -2 } ,
-                        {2 , 0 , -2 , 2 , 2 , 0 , -2 , 0 ,-2} ,
-                        {2 , 0 , 2 , -2 , -2 , -2 , 0 , 0 , 2} ,
-                        {0 , 2 , 0 , 0 , 0 , 0 , 0 , 0 , 0} ,
-                        {2 , 0 , 2 , -2 , -2 , -2 , 2 , 0 , 0} 
+
+        /// <summary>
+        /// This stores the given weight matrix of the plus and minus symobls.
+        /// </summary>
+        int[,] weight = {
+                        {  0,  0,  2, -2, -2, -2,  2, 0 ,  2} ,
+                        {  0,  0,  0,  0,  0,  0,  0, 2 ,  0} ,
+                        {  2,  0,  0, -2, -2, -2,  2, 0 ,  2} ,
+                        {  2,  0, -2,  0,  2,  2, -2, 0 , -2} ,
+                        {  2,  0, -2,  2,  0,  2, -2, 0 , -2} ,
+                        {  2,  0, -2,  2,  2,  0, -2, 0 , -2} ,
+                        {  2,  0,  2, -2, -2, -2,  0, 0 ,  2} ,
+                        {  0,  2,  0,  0,  0,  0,  0, 0 ,  0} ,
+                        {  2,  0,  2, -2, -2, -2,  2, 0 ,  0}
         };
 
+        /// <summary>
+        /// This stores the output vectors.
+        /// </summary>
         int[] outputArr = new int[9];
 
         public Form1()
@@ -43,15 +51,32 @@ namespace TeamWangan
 
         }
 
+        /// <summary>
+        /// Toggles the color of the button.
+        /// </summary>
+        /// <param name="sender">Click the button.</param>
+        /// <param name="e">Changes the color of the button.</param>
         private void changeColor(object sender, EventArgs e)
         {
             ((Control)sender).BackColor = Color.Black;
         }
 
+        /// <summary>
+        /// Loads the form.
+        /// </summary>
+        /// <param name="sender">Auto-start on program execution.</param>
+        /// <param name="e">Loads the form.</param>
         private void Form1_Load(object sender, EventArgs e)
         {
         }
 
+        /// <summary>
+        /// This resets the application - it sets all the buttons to white and
+        /// clears the outputArr.
+        /// </summary>
+        /// <param name="sender">This is the action of clicking the button.</param>
+        /// <param name="e">This is the result of clicking the button, which results
+        /// in setting all the buttons back to white.</param>
         private void resetColor(object sender, EventArgs e)
         {
             button1.BackColor = Color.White;
@@ -67,11 +92,13 @@ namespace TeamWangan
             Array.Clear(outputArr, 0, outputArr.Length);
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        /// <summary>
+        /// This will calculate the output vectors and the threshold from the
+        /// input vector.
+        /// </summary>
+        /// <param name="sender">This is the action of clicking the button.</param>
+        /// <param name="e">From the action of clicking the button, this will
+        /// toggle the button to white or black.</param>
         private void checkMemBtn_Click(object sender, EventArgs e)
         {
             //for (int i = 0; i < 9; i++)
@@ -178,13 +205,14 @@ namespace TeamWangan
                 }
             }
 
-            for(int i = 0; i < 9; i++)
+            for (int i = 0; i < 9; i++)
             {
-                if(outputArr[i] > 0)
+                if (outputArr[i] > 0)
                 {
                     outputArr[i] = 1;
-                } 
-                else if(outputArr[i] < 0){
+                }
+                else if (outputArr[i] < 0)
+                {
                     outputArr[i] = 0;
                 }
             }
