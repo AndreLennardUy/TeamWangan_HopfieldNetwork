@@ -41,6 +41,15 @@
             this.label1 = new System.Windows.Forms.Label();
             this.checkMemBtn = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
+            this.button12 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.button14 = new System.Windows.Forms.Button();
+            this.button15 = new System.Windows.Forms.Button();
+            this.button16 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
+            this.button18 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -118,7 +127,7 @@
             // resetBtn
             // 
             this.resetBtn.BackColor = System.Drawing.Color.Red;
-            this.resetBtn.Location = new System.Drawing.Point(128, 347);
+            this.resetBtn.Location = new System.Drawing.Point(274, 353);
             this.resetBtn.Name = "resetBtn";
             this.resetBtn.Size = new System.Drawing.Size(75, 23);
             this.resetBtn.TabIndex = 9;
@@ -138,7 +147,7 @@
             // 
             // checkMemBtn
             // 
-            this.checkMemBtn.Location = new System.Drawing.Point(111, 312);
+            this.checkMemBtn.Location = new System.Drawing.Point(259, 318);
             this.checkMemBtn.Name = "checkMemBtn";
             this.checkMemBtn.Size = new System.Drawing.Size(112, 29);
             this.checkMemBtn.TabIndex = 11;
@@ -149,17 +158,98 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(108, 373);
+            this.label2.Location = new System.Drawing.Point(256, 384);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(0, 16);
             this.label2.TabIndex = 12;
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(344, 107);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(43, 50);
+            this.button10.TabIndex = 13;
+            this.button10.UseVisualStyleBackColor = true;
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(412, 107);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(43, 50);
+            this.button11.TabIndex = 14;
+            this.button11.UseVisualStyleBackColor = true;
+            // 
+            // button12
+            // 
+            this.button12.Location = new System.Drawing.Point(481, 107);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(43, 50);
+            this.button12.TabIndex = 15;
+            this.button12.UseVisualStyleBackColor = true;
+            // 
+            // button13
+            // 
+            this.button13.Location = new System.Drawing.Point(344, 177);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(43, 50);
+            this.button13.TabIndex = 16;
+            this.button13.UseVisualStyleBackColor = true;
+            // 
+            // button14
+            // 
+            this.button14.Location = new System.Drawing.Point(412, 177);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(43, 50);
+            this.button14.TabIndex = 17;
+            this.button14.UseVisualStyleBackColor = true;
+            // 
+            // button15
+            // 
+            this.button15.Location = new System.Drawing.Point(481, 177);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(43, 50);
+            this.button15.TabIndex = 18;
+            this.button15.UseVisualStyleBackColor = true;
+            // 
+            // button16
+            // 
+            this.button16.Location = new System.Drawing.Point(344, 246);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(43, 50);
+            this.button16.TabIndex = 19;
+            this.button16.UseVisualStyleBackColor = true;
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(412, 246);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(43, 50);
+            this.button17.TabIndex = 20;
+            this.button17.UseVisualStyleBackColor = true;
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(481, 246);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(43, 50);
+            this.button18.TabIndex = 21;
+            this.button18.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(361, 409);
+            this.ClientSize = new System.Drawing.Size(603, 409);
+            this.Controls.Add(this.button18);
+            this.Controls.Add(this.button17);
+            this.Controls.Add(this.button16);
+            this.Controls.Add(this.button15);
+            this.Controls.Add(this.button14);
+            this.Controls.Add(this.button13);
+            this.Controls.Add(this.button12);
+            this.Controls.Add(this.button11);
+            this.Controls.Add(this.button10);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.checkMemBtn);
             this.Controls.Add(this.label1);
@@ -196,6 +286,15 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button checkMemBtn;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
+        private System.Windows.Forms.Button button12;
+        private System.Windows.Forms.Button button13;
+        private System.Windows.Forms.Button button14;
+        private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.Button button18;
     }
 }
 

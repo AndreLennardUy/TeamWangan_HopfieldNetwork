@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -58,7 +59,7 @@ namespace TeamWangan
         /// <param name="e">Changes the color of the button.</param>
         private void changeColor(object sender, EventArgs e)
         {
-            ((Control)sender).BackColor = Color.Black;
+            ((Control)sender).BackColor = (((Control)sender).BackColor == Color.Black) ? Color.White : Color.Black;
         }
 
         /// <summary>
@@ -79,15 +80,13 @@ namespace TeamWangan
         /// in setting all the buttons back to white.</param>
         private void resetColor(object sender, EventArgs e)
         {
-            button1.BackColor = Color.White;
-            button2.BackColor = Color.White;
-            button3.BackColor = Color.White;
-            button4.BackColor = Color.White;
-            button5.BackColor = Color.White;
-            button6.BackColor = Color.White;
-            button7.BackColor = Color.White;
-            button8.BackColor = Color.White;
-            button9.BackColor = Color.White;
+            List<Button> buttons = new List<Button> { button1, button2, button3, button4, button5, button6, button7, button8, button9,
+                                                    button10, button11, button12, button13, button14, button15, button16, button17, button18};
+
+            foreach (Button button in buttons)
+            {
+                button.BackColor = Color.White;
+            }
             label2.Text = "";
             Array.Clear(outputArr, 0, outputArr.Length);
         }
@@ -101,100 +100,17 @@ namespace TeamWangan
         /// toggle the button to white or black.</param>
         private void checkMemBtn_Click(object sender, EventArgs e)
         {
-            //for (int i = 0; i < 9; i++)
-            //{
-            //    foreach (Control c in this.Controls.OfType<Button>())
-            //    {
-            //        if (c.BackColor == Color.Black)
-            //        {
-            //            inputArr[i] = 1;
-            //        }
-            //        else if (c.BackColor == Color.White)
-            //        {
-            //            inputArr[i] = 0;
-            //        }
-            //    }
-            //}
-            if (button1.BackColor == Color.Black)
-            {
-                inputArr[0] = 1;
-            }
-            else if (button1.BackColor == Color.White)
-            {
-                inputArr[0] = 0;
-            }
-
-            if (button2.BackColor == Color.Black)
-            {
-                inputArr[1] = 1;
-            }
-            else if (button2.BackColor == Color.White)
-            {
-                inputArr[1] = 0;
-            }
-
-            if (button3.BackColor == Color.Black)
-            {
-                inputArr[2] = 1;
-            }
-            else if (button3.BackColor == Color.White)
-            {
-                inputArr[2] = 0;
-            }
-
-            if (button4.BackColor == Color.Black)
-            {
-                inputArr[3] = 1;
-            }
-            else if (button4.BackColor == Color.White)
-            {
-                inputArr[3] = 0;
-            }
-
-            if (button5.BackColor == Color.Black)
-            {
-                inputArr[4] = 1;
-            }
-            else if (button5.BackColor == Color.White)
-            {
-                inputArr[4] = 0;
-            }
-
-            if (button6.BackColor == Color.Black)
-            {
-                inputArr[5] = 1;
-            }
-            else if (button6.BackColor == Color.White)
-            {
-                inputArr[5] = 0;
-            }
-
-            if (button7.BackColor == Color.Black)
-            {
-                inputArr[6] = 1;
-            }
-            else if (button7.BackColor == Color.White)
-            {
-                inputArr[6] = 0;
-            }
-
-            if (button8.BackColor == Color.Black)
-            {
-                inputArr[7] = 1;
-            }
-            else if (button8.BackColor == Color.White)
-            {
-                inputArr[7] = 0;
-            }
-
-            if (button9.BackColor == Color.Black)
-            {
-                inputArr[8] = 1;
-            }
-            else if (button9.BackColor == Color.White)
-            {
-                inputArr[8] = 0;
-            }
+            label2.Text = "";
+            
+            inputArr[0] = (button1.BackColor == Color.Black) ? 1 : -1;
+            inputArr[1] = (button2.BackColor == Color.Black) ? 1 : -1;
+            inputArr[2] = (button3.BackColor == Color.Black) ? 1 : -1;
+            inputArr[3] = (button4.BackColor == Color.Black) ? 1 : -1;
+            inputArr[4] = (button5.BackColor == Color.Black) ? 1 : -1;
+            inputArr[5] = (button6.BackColor == Color.Black) ? 1 : -1;
+            inputArr[6] = (button7.BackColor == Color.Black) ? 1 : -1;
+            inputArr[7] = (button8.BackColor == Color.Black) ? 1 : -1;
+            inputArr[8] = (button9.BackColor == Color.Black) ? 1 : -1;
 
 
             for (int i = 0; i < 9; i++)
@@ -207,20 +123,30 @@ namespace TeamWangan
 
             for (int i = 0; i < 9; i++)
             {
-                if (outputArr[i] > 0)
+                if (outputArr[i] >= 0)
                 {
                     outputArr[i] = 1;
                 }
                 else if (outputArr[i] < 0)
                 {
-                    outputArr[i] = 0;
+                    outputArr[i] = -1;
                 }
             }
 
             foreach (var i in outputArr)
-            {
+            {   
                 label2.Text = label2.Text + " " + i;
             }
+                
+            button10.BackColor = (outputArr[0] == 1) ? Color.Black : Color.White;
+            button11.BackColor = (outputArr[1] == 1) ? Color.Black : Color.White;
+            button12.BackColor = (outputArr[2] == 1) ? Color.Black : Color.White;
+            button13.BackColor = (outputArr[3] == 1) ? Color.Black : Color.White;
+            button14.BackColor = (outputArr[4] == 1) ? Color.Black : Color.White;
+            button15.BackColor = (outputArr[5] == 1) ? Color.Black : Color.White;
+            button16.BackColor = (outputArr[6] == 1) ? Color.Black : Color.White;
+            button17.BackColor = (outputArr[7] == 1) ? Color.Black : Color.White;
+            button18.BackColor = (outputArr[8] == 1) ? Color.Black : Color.White;
         }
     }
 }
