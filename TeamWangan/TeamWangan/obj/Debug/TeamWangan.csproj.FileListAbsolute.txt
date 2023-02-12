@@ -42,3 +42,14 @@ C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\ob
 C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
 C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
 C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.AssemblyReference.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.SuggestedBindingRedirects.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Form1.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Properties.Resources.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.GenerateResource.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.pdb
