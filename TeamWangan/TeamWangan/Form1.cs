@@ -121,6 +121,11 @@ namespace TeamWangan
                 }
             }
 
+            foreach(var i in outputArr)
+            {
+                output.Text = output.Text + " " + i;
+            }
+
             for (int i = 0; i < 9; i++)
             {
                 if (outputArr[i] >= 0)
@@ -148,5 +153,6 @@ namespace TeamWangan
             button17.BackColor = (outputArr[7] == 1) ? Color.Black : Color.White;
             button18.BackColor = (outputArr[8] == 1) ? Color.Black : Color.White;
         }
+
     }
 }
