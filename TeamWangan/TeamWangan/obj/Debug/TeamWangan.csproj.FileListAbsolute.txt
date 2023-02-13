@@ -1,0 +1,55 @@
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.AssemblyReference.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Form1.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Properties.Resources.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.GenerateResource.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.CoreCompileInputs.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rd yr 1st Sem\Intelligent System\UY_FuzzyLogic\TeamWangan\TeamWangan\obj\Debug\TeamWangan.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.AssemblyReference.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Form1.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Properties.Resources.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.GenerateResource.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.CoreCompileInputs.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Industry Elective\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.AssemblyReference.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Form1.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Properties.Resources.resources
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.GenerateResource.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.CoreCompileInputs.cache
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.exe
+C:\Users\Andre Uy\OneDrive - Cebu Institute of Technology University\3rdYr2ndSem\Intel System\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.pdb
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.AssemblyReference.cache
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Form1.resources
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Properties.Resources.resources
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.GenerateResource.cache
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.exe
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.pdb
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
+C:\Users\adrian\Source\Repos\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe.config
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\bin\Debug\TeamWangan.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.AssemblyReference.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.SuggestedBindingRedirects.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Form1.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.Properties.Resources.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.GenerateResource.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\CS - 346\TeamWangan_HopfieldNetwork\TeamWangan\TeamWangan\obj\Debug\TeamWangan.pdb
